@@ -15,7 +15,3 @@
 ![HLSL](https://img.shields.io/badge/hlsl-%230072C6.svg?style=for-the-badge&logo=directx&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-## 🛠️ Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
